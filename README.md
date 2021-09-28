@@ -1,5 +1,5 @@
-### Hi there 👋
-
+### Hello there.
+I'm Arda Kırcı, a freshman at University of Bilkent. This account's goal is to contribute to the open source society, make the world a better place and find people who likes cartoons like Adventure Time and Gravity Falls. That's enough for an introduction I guess.  
 <!--
 **ardakirci/ardakirci** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
