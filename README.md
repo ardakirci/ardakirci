@@ -1,5 +1,5 @@
 ### Hello there.
-I'm Arda Kırcı, a junior  CS student studying at Bilkent University. My interests are math, theoratical CS, system programming. Here you can find some personal projects like declarative UNIX config, watchos app, a small neovim distro (more stuff on the way).
+
 <!--
 **ardakirci/ardakirci** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
